@@ -3,14 +3,25 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Geist+Pixel&display=swap"
+      rel="stylesheet"
+    />
     <title>JS Project | Random Number Generator</title>
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
     <div class="container">
-      <div class="content">content</div>
-      <div class="content">content</div>
-      <div class="content">content</div>
+      <div class="output"><span>?</span></div>
+      <div class="header"><h1>Random Number Generator</h1></div>
+      <div class="content">
+        <input id="minValue" type="number" placeholder="Min Value" />
+        <input id="maxValue" type="number" placeholder="Max Value" />
+        <button id="generateBtn">Generate</button>
+      </div>
     </div>
+    <script src="script.js"></script>
   </body>
 </html>
