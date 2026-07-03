@@ -14,13 +14,16 @@
   </head>
   <body>
     <div class="container">
-      <div class="output"><span>?</span></div>
-      <div class="header"><h1>Random Number Generator</h1></div>
-      <div class="content">
+      <div class="output"><span id="number">?</span></div>
+      <div class="header">
+        <div class="error">Error</div>
+        <h1>Random Number Generator</h1>
+      </div>
+      <form class="content">
         <input id="minValue" type="number" placeholder="Min Value" />
         <input id="maxValue" type="number" placeholder="Max Value" />
-        <button id="generateBtn">Generate</button>
-      </div>
+        <input id="generateBtn" type="submit" value="Generate" />
+      </form>
     </div>
     <script src="script.js"></script>
   </body>

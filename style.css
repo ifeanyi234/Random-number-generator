@@ -59,7 +59,7 @@ input {
   height: 100%;
 }
 
-button {
+input[type="submit"] {
   background-color: rgb(39, 39, 35);
   outline: none;
   color: #ccc;
@@ -70,9 +70,22 @@ button {
   cursor: pointer;
   transition: all ease-in-out 0.25s;
 }
-button:hover {
+input[type="submit"]:hover {
   background-color: rgb(59, 59, 52);
 }
-button:active {
+input[type="submit"]:active {
   transform: scale(0.8);
+}
+.error {
+  background-color: #f8d7da;
+  color: #842029;
+  border: 1px solid #f5c2c7;
+  padding: 0.75rem 1.25rem;
+  margin-bottom: 1rem;
+  border-radius: 0.375rem;
+  width: 100%;
+  display: none;
+}
+.error.active {
+  display: flex;
 }
