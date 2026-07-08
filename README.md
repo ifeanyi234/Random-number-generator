@@ -11,7 +11,7 @@ minimum and maximum value, with input validation.
 
 |              Default View               |            Error Handling             |            Error Handling             | Active State                           |
 | :-------------------------------------: | :-----------------------------------: | :-----------------------------------: | -------------------------------------- |
-| ![Default](screenshots/screenshot1.png) | ![Error](screenshots/screenshot2.png) | ![Error](screenshots/screenshot3.png) | ![Active](screenshots/screenshot4.png) |
+| ![Default](screenshots/Screenshot1.png) | ![Error](screenshots/Screenshot2.png) | ![Error](screenshots/Screenshot3.png) | ![Active](screenshots/Screenshot4.png) |
 
 ## Features
 
