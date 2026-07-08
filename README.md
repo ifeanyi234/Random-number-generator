@@ -9,10 +9,10 @@ minimum and maximum value, with input validation.
 
 ## Screenshot
 
-![Random Number Generator](./screenshots/screenshot1.png)
-![Random Number Generator](./screenshots/screenshot2.png)
-![Random Number Generator](./screenshots/screenshot3.png)
-![Random Number Generator](./screenshots/screenshot4.png)
+![Random Number Generator](screenshots/screenshot1.png)
+![Random Number Generator](screenshots/screenshot2.png)
+![Random Number Generator](screenshots/screenshot3.png)
+![Random Number Generator](screenshots/screenshot4.png)
 
 ## Features
 
