@@ -7,12 +7,11 @@ minimum and maximum value, with input validation.
 
 [Link here once deployed]
 
-## Screenshot
+## Screenshots
 
-![Random Number Generator](screenshots/screenshot1.png)
-![Random Number Generator](screenshots/screenshot2.png)
-![Random Number Generator](screenshots/screenshot3.png)
-![Random Number Generator](screenshots/screenshot4.png)
+|              Default View               |            Error Handling             |            Error Handling             | Active State                           |
+| :-------------------------------------: | :-----------------------------------: | :-----------------------------------: | -------------------------------------- |
+| ![Default](screenshots/screenshot1.png) | ![Error](screenshots/screenshot2.png) | ![Error](screenshots/screenshot3.png) | ![Active](screenshots/screenshot4.png) |
 
 ## Features
 
